@@ -1,0 +1,9 @@
+F:\DOTNETPractice\ServiceBusDemo\ServiceBusShared\bin\Debug\netcoreapp3.1\ServiceBusShared.deps.json
+F:\DOTNETPractice\ServiceBusDemo\ServiceBusShared\bin\Debug\netcoreapp3.1\ServiceBusShared.dll
+F:\DOTNETPractice\ServiceBusDemo\ServiceBusShared\bin\Debug\netcoreapp3.1\ServiceBusShared.pdb
+F:\DOTNETPractice\ServiceBusDemo\ServiceBusShared\obj\Debug\netcoreapp3.1\ServiceBusShared.csproj.AssemblyReference.cache
+F:\DOTNETPractice\ServiceBusDemo\ServiceBusShared\obj\Debug\netcoreapp3.1\ServiceBusShared.AssemblyInfoInputs.cache
+F:\DOTNETPractice\ServiceBusDemo\ServiceBusShared\obj\Debug\netcoreapp3.1\ServiceBusShared.AssemblyInfo.cs
+F:\DOTNETPractice\ServiceBusDemo\ServiceBusShared\obj\Debug\netcoreapp3.1\ServiceBusShared.csproj.CoreCompileInputs.cache
+F:\DOTNETPractice\ServiceBusDemo\ServiceBusShared\obj\Debug\netcoreapp3.1\ServiceBusShared.dll
+F:\DOTNETPractice\ServiceBusDemo\ServiceBusShared\obj\Debug\netcoreapp3.1\ServiceBusShared.pdb
